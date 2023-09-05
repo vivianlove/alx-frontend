@@ -11,3 +11,6 @@ readme.md
 ![16-weight](https://github.com/vivianlove/alx-frontend/assets/10345805
 ![12-print_version](https://github.com/vivianlove/alx-frontend/assets/103458056/e7bbdfe8-008e-43d7-b8dc-118283bb0e38)
 6/05dc9fdb-9d3b-402a-90cf-1c822
+![29-how_many_colors](https://github.com/vivianlove/alx-frontend/assets/103458056/a3b7837f-9e52-4b50-941f-5d9afa5385df)
+![24-static_assets_audit](https://github.com/vivianlove/alx-frontend/assets/103458056/f2e453ac-dfef-4035-9b0f-e3b54c44c4aa)
+![2-pathways_menu](https://github.com/vivianlove/alx-frontend/assets/103458056/2b64a049-8813-4a3b-953f-36e3e65d64b2)
